@@ -1,0 +1,10 @@
+1. Open cmd in current directory
+2. Viewer.exe data\bones2102.mesh
+
+
+1. Build > Build solution
+2. Open cmd in Debug
+3. Project.exe cow5804.mesh cow1000.mesh 1000
+		mesh-input	mesh-output	facecount
+4. Open cmd in directory with viewer.exe
+5. Viewer.exe Debug\cow5804.mesh
